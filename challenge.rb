@@ -18,7 +18,7 @@ p intersection_union([7, 8, 9], [1, 2, 3])
 p intersection_union([4, 4, 6, 7, 8], [4, 5, 6, 9])
 p intersection_union([7, 8, 9], [1, 2, 3])
 
-# Second Exersice
+# Second Exercise
 
 def find_bob(array)
   new_array = array.find_index('Bob')
@@ -30,7 +30,7 @@ puts find_bob(name_array)
 second_name_array = %w[bob carlos oscar]
 puts find_bob(second_name_array)
 
-# Third exercice
+# Third Exercise
 
 def unique(array)
   a = []
